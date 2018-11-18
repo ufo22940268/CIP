@@ -11,3 +11,7 @@ When you browser a page with a html5 player in it, and then click the extension 
 ## Screenshot
 
 ![](./asset/CIP_screenshot.jpg)
+
+## Chrome extension store
+
+[Download link](https://chrome.google.com/webstore/detail/cip/oacpifbefgeacllmohgglfjmgchadkjh)
