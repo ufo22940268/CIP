@@ -1,6 +1,6 @@
 {
-  "name": "CIP",
-  "version": "1.0",
+  "name": "CIP - Picture In Picture (AKA. PIP) player",
+  "version": "1.2",
   "description": "Play video in Picture-In-Picture mode (aka. PIP)",
   "background": {
     "scripts": ["background.js"],
@@ -14,7 +14,6 @@
   },
   "permissions": [
     "background",
-    "tabs",
     "activeTab"
   ],
   "browser_action": {},
